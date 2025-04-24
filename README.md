@@ -1,4 +1,4 @@
-# 🚕 Ola Rides Analytics - Power BI Report
+# 🚕 Ola Rides Analytics - Power BI Report (![Power Bi Dashboard](https://github.com/Sachaitlikhi/Ola-Power-BI-Project/blob/main/Ola_Dashboard.pdf))
 
 ## 📊 Overview
 
