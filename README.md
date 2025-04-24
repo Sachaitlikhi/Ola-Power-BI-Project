@@ -61,4 +61,6 @@ This Power BI report provides comprehensive insights into ride bookings on the O
 - Power BI Desktop  
 - Ola Booking Dataset (July 2024)  
 
+![Power Bi Dashboard](https://github.com/Sachaitlikhi/Ola-Power-BI-Project/blob/main/Ola_Dashboard.pdf)
+
 
